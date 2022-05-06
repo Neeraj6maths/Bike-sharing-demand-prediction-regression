@@ -43,6 +43,13 @@ We are given a Seoul Bike Sharing dataset. This dataset contains information abo
 - Created new column `month` from `date` column.
 - Created new column `day of month` from `date` column.
 
+### (6) Feature encoding
+- Used One hot encoding to transform categorical feature - `Seasons`.
+- Used Label encoding to transform categorical features - `Holiday`, `Functional Day`.
+
+### (7) Handling skewness
+- Used square root transformation to reduce skewness of skewed features.
+
 ## Exploratory Data Analysis
 
 Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:
@@ -75,7 +82,16 @@ We have used following ML regression models and have compared there performance.
 - Lasso
 - Ridge
 - Elastic Net
--
+
+### Hyperparameter tuning and cross validation
+
+To make models more accuarate I have used Grid search CV for hyperparameter tuning and cross validation.
+
+### Performance metrics used
+
+
+
+
 ## Conclusion
 
 ```
