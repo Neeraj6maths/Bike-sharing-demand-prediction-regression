@@ -153,7 +153,7 @@ Since we have to predict the count of rented bikes, so this is a regression prob
 - Lasso
 - Ridge
 - Elastic Net
-```
+
 
 Following necessary steps have been employed for better model performance.
                 (i)   train test split for model evaluation.
@@ -162,7 +162,7 @@ Following necessary steps have been employed for better model performance.
                       
                       
                   
-
+```
 
 
 ### Evaluation metrics
