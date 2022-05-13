@@ -2,7 +2,7 @@
 
 
 ## Objective
-This main objective of this project is to build a predictive model, which could predict the count of rental bikes required for each hour using the Seoul Bike Sharing dataset that contains information about bike count along with many environmental variables for each hour of each day from December 2017 to November 2018. 
+The main objective of this project is to build a predictive model, which could predict the count of rental bikes required for each hour using the Seoul Bike Sharing dataset that contains information about bike count along with many environmental variables for each hour of each day from December 2017 to November 2018. 
 ## Dataset used
  The dataset contains information about bike count for each hour of each day along with following features.
 
