@@ -167,17 +167,17 @@ Following necessary steps have been employed for better model performance.
 
 ### Evaluation metrics
 
-To evaluate the models I have used MSE( Mean Square error) and R2-Score.
+To evaluate the models I have used MSE( Mean Square error) and Adjusted R2-Score.
 
 
 ## Conclusion
 
 ```
                  (i)   Random forest performed best as compared to other models with
-                         R2-Score for test dataset = 0.812
+                         Adjusted R2-Score for test dataset = 0.811
                          MSE for test dataset      = 78132.54
                  (ii)  Linear Regression is the least accurate as compared to other models performed.
-                         R2-Score for test dataset = 0.3660
+                         Adjusted R2-Score for test dataset = 0.360
                          MSE for test dataset      = 193993.06
            
 
